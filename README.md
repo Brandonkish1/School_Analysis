@@ -3,8 +3,7 @@
 ## Overview
 This analysis shows trends in school performance by looking at funding and standardized test scores. It will be used by the school board and superintendant to make decisions regarding budgets and priorities.
 
-*** There is evidence of academic dishonest from Thomas High School. 9th grade test scores have been removed from this analysis. ***
-
+*** There is evidence of academic dishonesty from Thomas High School. 9th grade test scores have been removed from this analysis to uphold state testing standards. ***
 
 This analysis analysis includes: 
 
