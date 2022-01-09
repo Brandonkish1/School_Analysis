@@ -21,7 +21,11 @@ This analysis analysis includes:
 
 ### District Summary
 
+![District_Summary.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/District_Summary.png)
+
 ### School Summary
+
+![School_Summary.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/School_Summary.png)
 
 ### Effect of Thomas High School data on Analysis
 
