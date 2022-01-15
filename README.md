@@ -24,14 +24,14 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 ### District Summary
 
 ![District_Summary.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/District_Summary.png)
-``
+
 - Changes to Data:
-  - Average Math Score: $\Delta$
-  - Average Reading Score:
-  - % Passing Math:
-  - % Passing Reading:
-  - % Overall Passing:
-``
+  - Average Math Score: Decrease of 0.1%
+  - Average Reading Score: No Change
+  - % Passing Math: Decrease of 0.2%
+  - % Passing Reading: Decrease of 0.1%
+  - % Overall Passing: Decrease of 0.3%
+
 ### School Summary
 
 ![School_Summary.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/School_Summary.png)
@@ -40,12 +40,8 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ![]()
 
-- Changes to Data:
-  - Average Math Score:
-  - Average Reading Score:
-  - % Passing Math:
-  - % Passing Reading:
-  - % Overall Passing:
+- Thomas High School's overall passing ranking didn't change. It still has the second highest % of Overall Passing students
+
 
 ### Math and Reading Scores by Grade
 
