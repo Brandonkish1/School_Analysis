@@ -77,22 +77,12 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ![Scores_by_Size.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Scores_by_Size.png)
 
-- Changes to Data:
-  - Average Math Score:
-  - Average Reading Score:
-  - % Passing Math:
-  - % Passing Reading:
-  - % Overall Passing:
+- Changes to Data: Thomas High School is a Medium School. The only place for potential changes will be in the medium school row. No change is shown because there was only a small change in the test scores for Thomas High School and they are not reflected when rounding.
 
 ### Scores by School Type
 
 ![Scores_by_Type.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Scores_by_Type.png)
 
-- Changes to Data:
-  - Average Math Score:
-  - Average Reading Score:
-  - % Passing Math:
-  - % Passing Reading:
-  - % Overall Passing:
+- Changes to Data: Thomas High School is a Charter School. The only place for potential changes will be in the charter school row. No change is shown because there was only a small change in the test scores for Thomas High School and they are not reflected when rounding.
 
 ## Summary
