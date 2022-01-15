@@ -45,7 +45,9 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ### Math and Reading Scores by Grade
 
-![]()
+#### Math
+
+![Math_by_Grade.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Math_by_Grade.png)
 
 - Changes to Data:
   - Average Math Score:
@@ -54,9 +56,21 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
   - % Passing Reading:
   - % Overall Passing:
 
+#### Reading
+
+![Reading_By_Grade.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Reading_By_Grade.png)
+
+- Changes to Data:
+  - Average Math Score:
+  - Average Reading Score:
+  - % Passing Math:
+  - % Passing Reading:
+  - % Overall Passing:
+
+
 ### Scores by School Spending
 
-![]()
+![Scores_by_Spending.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Scores_by_Spending.png)
 
 - Changes to Data:
   - Average Math Score:
@@ -67,7 +81,7 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ### Scores by School Size
 
-![]()
+![Scores_by_Size.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Scores_by_Size.png)
 
 - Changes to Data:
   - Average Math Score:
@@ -78,7 +92,7 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ### Scores by School Type
 
-![]()
+![Scores_by_Type.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Scores_by_Type.png)
 
 - Changes to Data:
   - Average Math Score:
