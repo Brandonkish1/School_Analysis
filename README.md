@@ -18,6 +18,8 @@ This analysis analysis includes:
   - School performance based on the type of school
 
 ## Results
+Below is how excluding the 9th grade data from Thomas High School effects the results for the entire district. Only test scores were excluded. No changes would be made to the total students or budget. 
+
 
 ### District Summary
 
