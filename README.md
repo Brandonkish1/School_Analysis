@@ -38,7 +38,7 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ### Effect of Thomas High School Performance Relative to Other Schools
 
-![]()
+![Top5_Schools.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Top5_Schools.png)
 
 - Thomas High School's overall passing ranking didn't change. It still has the second highest % of Overall Passing students
 
