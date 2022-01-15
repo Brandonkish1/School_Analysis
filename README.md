@@ -70,12 +70,8 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ![Scores_by_Spending.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Scores_by_Spending.png)
 
-- Changes to Data:
-  - Average Math Score:
-  - Average Reading Score:
-  - % Passing Math:
-  - % Passing Reading:
-  - % Overall Passing:
+- Changes to Data: The image before and after look the same. The only number that might have changed was the row for <$584/student, because Thomas High School spent $630/student. No change is shown because there was only a small change in the test scores for Thomas High School and they are not reflected when rounding.
+
 
 ### Scores by School Size
 
