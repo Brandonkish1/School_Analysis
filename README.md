@@ -88,3 +88,11 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 - Changes to Data: Thomas High School is a Charter School. The only place for potential changes will be in the charter school row. No change is shown because there was only a small change in the test scores for Thomas High School and they are not reflected when rounding.
 
 ## Summary
+
+Some of the changes to the code to exclude Thomas High School 9th grade test scores are below.
+
+- Thomas High School 9th grade test scores were replaced with Null values
+- When summarizing test scores for the whole population a new student total that excluded the Thomas High School 9th graders had to be used.
+  - Using the original total would have driven all of the percentages down.
+- New totals had to be calculated for Thomas High School and added to the per_school_summary_df
+- 
