@@ -31,7 +31,7 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
   - % Passing Math:
   - % Passing Reading:
   - % Overall Passing:
-  ``
+``
 ### School Summary
 
 ![School_Summary.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/School_Summary.png)
