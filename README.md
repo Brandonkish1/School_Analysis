@@ -26,7 +26,7 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 ![District_Summary.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/District_Summary.png)
 
 - Changes to Data:
-  - Average Math Score: \Delta$
+  - Average Math Score: $\Delta$
   - Average Reading Score:
   - % Passing Math:
   - % Passing Reading:
