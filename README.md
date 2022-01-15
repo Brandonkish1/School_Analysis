@@ -38,12 +38,57 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 
 ### Effect of Thomas High School Performance Relative to Other Schools
 
+![]()
+
+- Changes to Data:
+  - Average Math Score:
+  - Average Reading Score:
+  - % Passing Math:
+  - % Passing Reading:
+  - % Overall Passing:
+
 ### Math and Reading Scores by Grade
+
+![]()
+
+- Changes to Data:
+  - Average Math Score:
+  - Average Reading Score:
+  - % Passing Math:
+  - % Passing Reading:
+  - % Overall Passing:
 
 ### Scores by School Spending
 
+![]()
+
+- Changes to Data:
+  - Average Math Score:
+  - Average Reading Score:
+  - % Passing Math:
+  - % Passing Reading:
+  - % Overall Passing:
+
 ### Scores by School Size
 
+![]()
+
+- Changes to Data:
+  - Average Math Score:
+  - Average Reading Score:
+  - % Passing Math:
+  - % Passing Reading:
+  - % Overall Passing:
+
 ### Scores by School Type
+
+![]()
+
+- Changes to Data:
+  - Average Math Score:
+  - Average Reading Score:
+  - % Passing Math:
+  - % Passing Reading:
+  - % Overall Passing:
 
 ## Summary
