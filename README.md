@@ -27,7 +27,14 @@ This analysis analysis includes:
 
 ![School_Summary.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/School_Summary.png)
 
-### Effect of Thomas High School data on Analysis
+### Effect of Thomas High School Performance Relative to Other Schools
 
+### Math and Reading Scores by Grade
+
+### Scores by School Spending
+
+### Scores by School Size
+
+### Scores by School Type
 
 ## Summary
