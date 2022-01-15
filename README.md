@@ -50,22 +50,20 @@ Below is how excluding the 9th grade data from Thomas High School effects the re
 ![Math_by_Grade.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Math_by_Grade.png)
 
 - Changes to Data:
-  - Average Math Score:
-  - Average Reading Score:
-  - % Passing Math:
-  - % Passing Reading:
-  - % Overall Passing:
+  - 9th Grade: Data removed so data frame shows nan
+  - 10th Grade: No changes to data. Only 9th grade test scores were removed
+  - 11th Grade: No changes to data. Only 9th grade test scores were removed
+  - 12th Grade: No changes to data. Only 9th grade test scores were removed
 
 #### Reading
 
 ![Reading_By_Grade.png](https://github.com/Brandonkish1/School_District_Analysis/blob/main/Resources/Reading_By_Grade.png)
 
 - Changes to Data:
-  - Average Math Score:
-  - Average Reading Score:
-  - % Passing Math:
-  - % Passing Reading:
-  - % Overall Passing:
+  - 9th Grade: Data removed so data frame shows nan
+  - 10th Grade: No changes to data. Only 9th grade test scores were removed
+  - 11th Grade: No changes to data. Only 9th grade test scores were removed
+  - 12th Grade: No changes to data. Only 9th grade test scores were removed
 
 
 ### Scores by School Spending
